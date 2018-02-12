@@ -21,6 +21,11 @@ For both applications we will be using a MERN STACK:
 <h4> Authentication </h4>
 We plan to use Google's Oauth API to log in users. Thankfully google has a Node libraries on NPM that we can use <a href="https://github.com/google/google-api-nodejs-client/" > Source </a>
 
+
+
+
+
+
 <h4> API's </h4> 
 
 <b> Car Service Comparison </b>
